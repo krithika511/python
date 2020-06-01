@@ -1,3 +1,5 @@
 radius=float(input("input the radius of the cicle:"))
 area=3.14*radius*radius
-print("The area of the circle with radius %f is:"%radius,%area)
+print("The area of the circle with radius"+str(radius)+"is:"+str(area))
+
+
